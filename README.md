@@ -5,7 +5,7 @@
 
 ### THIS is my facebook page:
 
-$("button").addClass("animated bounce");[click here](https://www.facebook.com/profile.php?id=100048845887459)
+$("button")[click here](https://www.facebook.com/profile.php?id=100048845887459)
 
 ### 放個圖片
 [my screenshot](/DP6qsTM.jpg)
